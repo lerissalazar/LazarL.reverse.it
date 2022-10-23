@@ -1,15 +1,30 @@
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\bin\Debug\net6.0\reverse.it.exe
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\bin\Debug\net6.0\reverse.it.deps.json
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\bin\Debug\net6.0\reverse.it.runtimeconfig.json
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\bin\Debug\net6.0\reverse.it.dll
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\bin\Debug\net6.0\reverse.it.pdb
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.csproj.AssemblyReference.cache
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.AssemblyInfoInputs.cache
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.AssemblyInfo.cs
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.csproj.CoreCompileInputs.cache
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.dll
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\refint\reverse.it.dll
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.pdb
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\reverse.it.genruntimeconfig.cache
-C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\reverse.it\obj\Debug\net6.0\ref\reverse.it.dll
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/bin/Debug/net6.0/reverse.it.exe
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/bin/Debug/net6.0/reverse.it.deps.json
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/bin/Debug/net6.0/reverse.it.runtimeconfig.json
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/bin/Debug/net6.0/reverse.it.dll
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/bin/Debug/net6.0/reverse.it.pdb
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.csproj.AssemblyReference.cache
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.AssemblyInfoInputs.cache
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.AssemblyInfo.cs
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.csproj.CoreCompileInputs.cache
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.dll
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/refint/reverse.it.dll
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.pdb
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/reverse.it.genruntimeconfig.cache
+C:/Users/leris/OneDrive/Desktop/CodeStack 22-23/level.1/challenges/llazar.github.challenges/reverse.it/obj/Debug/net6.0/ref/reverse.it.dll
+/Users/drewnilsson/Downloads/LazarL.reverse.it/bin/Debug/net6.0/reverse.it
+/Users/drewnilsson/Downloads/LazarL.reverse.it/bin/Debug/net6.0/reverse.it.deps.json
+/Users/drewnilsson/Downloads/LazarL.reverse.it/bin/Debug/net6.0/reverse.it.runtimeconfig.json
+/Users/drewnilsson/Downloads/LazarL.reverse.it/bin/Debug/net6.0/reverse.it.dll
+/Users/drewnilsson/Downloads/LazarL.reverse.it/bin/Debug/net6.0/reverse.it.pdb
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.csproj.AssemblyReference.cache
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.AssemblyInfoInputs.cache
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.AssemblyInfo.cs
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.csproj.CoreCompileInputs.cache
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.dll
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/refint/reverse.it.dll
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.pdb
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/reverse.it.genruntimeconfig.cache
+/Users/drewnilsson/Downloads/LazarL.reverse.it/obj/Debug/net6.0/ref/reverse.it.dll
